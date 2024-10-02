@@ -60,7 +60,7 @@ Access the Application
 The application should now be running on:
 
 Frontend: http://localhost:3000
-Backend: http://localhost:5000
+Backend: http://localhost:5001
 Folder Structure
 bash
 Copy code
